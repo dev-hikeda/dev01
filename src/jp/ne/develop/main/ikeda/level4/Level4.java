@@ -32,6 +32,7 @@ public class Level4 {
             if (hoge.size() == maxCount) {
                 hogehoge.put("グループ" + teamCount, hoge);
                 teamCount++;
+            	
                 hoge.clear();
             }
             count++;
